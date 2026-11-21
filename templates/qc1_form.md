@@ -36,3 +36,5 @@ Quyết định (Release / Hold / Rework):
 Lý do (theo luật của phiếu):  
 
 Loại lỗi: bỏ sót = thiếu nhãn phải có; thừa = gán cái không phải đối tượng; sai phạm vi = hình lệch, sai chiều, dừng sai chỗ, tràn vùng. Ba loại này theo cách chia lỗi gán nhãn của ISO/IEC 5259-4 (mục 8.4.2); "sai thuộc tính" và "lỗi file" là khóa học thêm. Cách xếp mức: [thang mức lỗi](../docs/qc_severity_road_v1.0.md).
+
+link drive nộp bài:https://drive.google.com/drive/folders/1jXdJhE9BhXOoBEH61WUcG-28Ib0nZsXS?usp=sharing
